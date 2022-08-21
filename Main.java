@@ -23,7 +23,7 @@ THEN CHANGE: NETWORKFOLDER = "FOLDERLOCATION"
 
 
 
-import javax.swing.JFrame; //java frame. remember that Tom.
+//import javax.swing.JFrame;
 import java.util.Scanner;
 import java.util.Random;
 import java.io.File;
