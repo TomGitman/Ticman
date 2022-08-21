@@ -10,7 +10,12 @@ This is not a great script, but you know, for fun and experience!
 
 # Install Instructions
 
-You can compile this java file, by:
+First, you have to modify configuration in Main.java, change the directory to your folder example: /home/tom/Desktop/NewFolder
+If you are on windows: C:\User\tom\Desktop\NewFolder
+
+By the way you have to make file manually.
+
+Then you can compile this java file, by:
 
 **javac Main.java**
 
@@ -20,7 +25,9 @@ after that you can run script:
 
 A introduction should appear.
 
-# Enjoy.
+Of course it is weak, You have to train it. That is why this script is not all best as it take some time to train it.
+
+# Enjoy!
 
 This is almost done, just little fix to make storage optimized.
 
