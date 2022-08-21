@@ -581,5 +581,3 @@ public class Main{
 		}	//we're done I guess?
 	}
 }
-
-/*investage resign bad moves and making moves*/
