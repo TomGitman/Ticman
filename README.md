@@ -13,7 +13,7 @@ This is not a great script, but you know, for fun and experience!
 First, you have to modify configuration in Main.java, change the directory to your folder example: /home/tom/Desktop/NewFolder
 If you are on windows: C:\User\tom\Desktop\NewFolder
 
-By the way you have to make file manually.
+By the way you have to make folder **manually**.
 
 Then you can compile this java file, by:
 
