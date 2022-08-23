@@ -4,7 +4,7 @@ a different computer that just learns instead of analyzing future games.
 Similar to neural network. Maybe
 it is?
 
-Side effects: It does not care about wins. just so careful about losses.
+Side effects: Storage. Will fix this soon.
 
 Coded in java.
 
